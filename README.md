@@ -106,7 +106,7 @@ Threat Actor Attribution
 
     Threat actor profiling and pattern analysis
 
-Detailed techniques: [OSINT Techniques](OSINT_Techniques.md) | [On-Chain Analysis](On-Chain_Analysis)
+Detailed techniques: [OSINT Techniques](osint-techniques.md) | [On-Chain Analysis](On-chain.md)
 🛡️ Mitigation & Impact
 Security Recommendations
 

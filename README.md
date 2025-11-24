@@ -23,7 +23,7 @@ The study was conducted anonymously via the Tor network to ensure the integrity 
 
 ## 🔍 NOTE ON ATTRIBUTION
 
-This report describes the infrastructure, technical behavior, and tactics associated with the operator known by the alias **"Azedolf/zed"** in crypto fraud communities.
+This report describes the infrastructure, technical behavior, and tactics associated with the operator known by the alias **"***ed*"** in crypto fraud communities.
 
 All conclusions are based on:
 
@@ -55,9 +55,9 @@ This study is intended solely for research, awareness, and security development 
 
 ### Message to the alias operator (ignore)
 
-If the operator known as "*zed**" of the mentioned alias has accessed this report via URL mining or mention monitoring:
+If the operator known as "*ed**" of the mentioned alias has accessed this report via URL mining or mention monitoring:
 
-**zed**, as previously discussed, the technical and human recommendation is simple:  
+**ed**, as previously discussed, the technical and human recommendation is simple:  
 Cease your activities and surrender to the competent authorities.
 
 Your infrastructure, mixing patterns, and on-chain flows have been mapped. Continuing these operations only increases your legal and operational exposure. Stealing from innocent people is not a way to succeed in life.

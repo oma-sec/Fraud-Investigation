@@ -5,6 +5,8 @@ For security reasons and in compliance with confidentiality agreements, sensitiv
 However, I am authorized to discuss technical and methodological details in controlled environments under the protection of a Non-Disclosure Agreement (NDA).
 
 ---
+[Summary](docs/summary.md)
+---
 
 ## 📧 VERIFICATION & CONTACT
 

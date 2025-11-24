@@ -85,9 +85,7 @@ Impact: Full session compromise, transaction interception, fund theft potential
 🔧 Technical Investigation
 Malware Analysis
 
-The campaign utilized sophisticated multi-stage payloads with hexadecimal obfuscation and dynamic script injection. For detailed technical analysis, see: [JavaScript Analysis
-Attack Flow](JavaScript_analysis.md)
-
+The campaign utilized sophisticated multi-stage payloads with hexadecimal obfuscation and dynamic script injection.
     Distribution: Multiple posts with fake profit claims
 
     Execution: Users tricked into pasting as javascript: malicious code
@@ -99,15 +97,6 @@ Attack Flow](JavaScript_analysis.md)
     Injection: Dynamic script execution with session privileges
 
     Impact: Session hijacking, transaction modification
-
-For complete attack timeline and methodology: [Case Flow](CaseFlow.md) | [Methodology
-Infrastructure Mapping](CaseFlow.md)
-
-    Identified malicious command-and-control infrastructure
-
-    Established comprehensive IoCs for sector-wide sharing
-
-    Performed controlled lab testing to validate payload behavior
 
 Threat Actor Attribution
 
